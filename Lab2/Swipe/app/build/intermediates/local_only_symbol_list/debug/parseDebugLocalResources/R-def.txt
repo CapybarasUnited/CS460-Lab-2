@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color ic_launcher_background
+color icon_background
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id main
+id textVideoTitle
+id textViewDescription
+id videoProgressBar
+id videoView
+id videoViewPager
+layout activity_main
+layout item_container_video
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+mipmap icon
+mipmap icon_foreground
+mipmap icon_round
+string app_name
+style AppTheme
+style Base.Theme.Swipe
+style Fullscreen
+style Theme.Swipe
+xml backup_rules
+xml data_extraction_rules

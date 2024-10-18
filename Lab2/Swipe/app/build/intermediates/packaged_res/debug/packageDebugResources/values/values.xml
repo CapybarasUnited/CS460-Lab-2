@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_launcher_background">#4F1717</color>
+    <color name="icon_background">#4F1717</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Swipe</string>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+    </style>
+    <style name="Base.Theme.Swipe" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Fullscreen" parent="AppTheme">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="Theme.Swipe" parent="Base.Theme.Swipe"/>
+</resources>
